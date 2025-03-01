@@ -33,16 +33,18 @@ SecureVault est une application web sécurisée de gestion de mots de passe qui 
 git clone [url-du-repo]
 ```
 
-2. Installez les dépendances :
+2. Dans le fichier .env, mettez votre clé API et l'URL de Supabase.
+   
+3. Installez les dépendances :
 ```bash
 npm install
 ```
 
-3. Lancez l'application en mode développement :
+4. Lancez l'application en mode développement :
 ```bash
 npm run dev
 ```
-4. Dans le fichier .env, mettez votre clé API et l'URL de Supabase.
+
 ## Utilisation
 
 1. Ajout d'un nouveau mot de passe :
