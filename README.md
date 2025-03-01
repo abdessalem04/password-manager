@@ -42,7 +42,7 @@ npm install
 ```bash
 npm run dev
 ```
-
+4. Dans le fichier .env, mettez votre clé API et l'URL de Supabase.
 ## Utilisation
 
 1. Ajout d'un nouveau mot de passe :
